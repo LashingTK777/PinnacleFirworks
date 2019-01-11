@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pinnacle Firworks</string>
+    <string name="title_activity_selection_screen">SelectionScreen</string>
+    <string name="description"><u>Description</u></string>
+</resources>
